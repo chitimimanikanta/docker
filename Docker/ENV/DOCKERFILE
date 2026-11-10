@@ -1,0 +1,3 @@
+FROM cmd:v1
+ENV name="Manikanta" \
+    job="devops engineer"
